@@ -1,5 +1,5 @@
 # Auto Encodeing 模型
-
+#代码参考了 莫凡学 Tensorflow 代码，有兴趣的可以学习
 
 import time
 import tensorflow as tf
